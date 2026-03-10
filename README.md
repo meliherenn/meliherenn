@@ -1,83 +1,81 @@
-# Hi 👋 I'm Melih Eren
+# Hi there, I'm Melih Eren 👋
 
-🎓 Software Engineering Student
-📍 Istanbul, Turkey
-
-📱 Flutter Mobile Developer
-🤖 Interested in Data Science & AI
-
----
-
-## 🚀 About Me
-
-* 4th year **Software Engineering student** at Haliç University
-* Focused on **Flutter mobile development**
-* Interested in **AI, Data Science and backend systems**
-* Building real-world projects using **Flutter, Python and FastAPI**
+🎓 Software Engineering Student  
+📍 Istanbul, Turkey  
+📱 Flutter Developer  
+🤖 Interested in AI, Data Science, and Backend Development  
 
 ---
 
-## 🛠 Tech Stack
+## About Me
+
+I am a 4th-year Software Engineering student at Haliç University.  
+My main focus is mobile application development with **Flutter**.  
+I also have experience with **Python**, **FastAPI**, and **machine learning** projects.
+
+I enjoy building clean, practical, and user-focused software projects while continuously improving my development skills.
+
+---
+
+## Tech Stack
 
 ### Languages
+- Python
+- Dart
+- C#
+- SQL
 
-Python • Dart • C# • SQL
-
-### Frameworks
-
-Flutter • FastAPI • Pandas • Scikit-learn
+### Frameworks & Libraries
+- Flutter
+- FastAPI
+- Pandas
+- Scikit-learn
 
 ### Tools
-
-Git • VS Code • MS SQL Server
+- Git
+- VS Code
+- MS SQL Server
 
 ---
 
-## 📱 Featured Projects
+## Featured Projects
 
 ### Expense Tracker
-
-Mobile application for tracking income and expenses with dashboard analytics.
-
-Tech
-Flutter • Dart
-
-👉 https://github.com/meliherenn/Expense-Tracker
-
----
+A Flutter mobile application for tracking income and expenses with a simple dashboard and local data storage.  
+🔗 [View Project](https://github.com/meliherenn/Expense-Tracker)
 
 ### Recipe App
-
-Recipe discovery application with search and category filtering.
-
-Tech
-Flutter • Dart
-
-👉 https://github.com/meliherenn/Recipe-App
-
----
+A Flutter recipe discovery application with search, category filtering, and favorite features.  
+🔗 [View Project](https://github.com/meliherenn/Recipe-App)
 
 ### E-Commerce UI
+A modern Flutter e-commerce interface including product listing, favorites, and cart flow.  
+🔗 [View Project](https://github.com/meliherenn/e-ticaret-ui)
 
-Modern Flutter e-commerce interface with product listing and cart flow.
-
-Tech
-Flutter • Dart
-
-👉 https://github.com/meliherenn/e-ticaret-ui
-
----
-
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=meliherenn\&show_icons=true)
+### SepsisGuard
+An AI-based healthcare project focused on sepsis-related prediction and analysis.  
+🔗 [View Project](https://github.com/meliherenn/SepsisGuard)
 
 ---
 
-## 🌐 Connect With Me
+## Currently Focusing On
 
-LinkedIn
-https://linkedin.com/in/meliheren
+- Improving my Flutter development skills
+- Building stronger mobile UI projects
+- Creating better real-world portfolio projects
+- Learning more about AI and backend systems
 
-Email
-[meliheren2834@gmail.com](mailto:meliheren2834@gmail.com)
+---
+
+## GitHub Stats
+
+![Melih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meliherenn&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meliherenn&layout=compact)
+
+---
+
+## Connect With Me
+
+- LinkedIn: [linkedin.com/in/meliheren](https://linkedin.com/in/meliheren)
+- GitHub: [github.com/meliherenn](https://github.com/meliherenn)
+- Email: meliheren2834@gmail.com
