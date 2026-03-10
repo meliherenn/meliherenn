@@ -1,32 +1,33 @@
 # Hi 👋 I'm Melih Eren
 
-🎓 Software Engineering Student  
-📍 Istanbul, Türkiye  
-📱 Flutter Mobile Developer  
+🎓 Software Engineering Student
+📍 Istanbul, Turkey
+
+📱 Flutter Mobile Developer
 🤖 Interested in Data Science & AI
 
 ---
 
 ## 🚀 About Me
 
-- 4th year Software Engineering student at Haliç University
-- Focused on **Flutter mobile development**
-- Interested in **AI, Data Science and backend development**
-- Building real projects with **Flutter, Python and FastAPI**
+* 4th year **Software Engineering student** at Haliç University
+* Focused on **Flutter mobile development**
+* Interested in **AI, Data Science and backend systems**
+* Building real-world projects using **Flutter, Python and FastAPI**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Languages
 
 Python • Dart • C# • SQL
 
-**Frameworks**
+### Frameworks
 
 Flutter • FastAPI • Pandas • Scikit-learn
 
-**Tools**
+### Tools
 
 Git • VS Code • MS SQL Server
 
@@ -35,19 +36,21 @@ Git • VS Code • MS SQL Server
 ## 📱 Featured Projects
 
 ### Expense Tracker
-Mobile application to track income and expenses with dashboard analytics.
 
-Tech:
-Flutter • Dart • Local Storage
+Mobile application for tracking income and expenses with dashboard analytics.
+
+Tech
+Flutter • Dart
 
 👉 https://github.com/meliherenn/Expense-Tracker
 
 ---
 
 ### Recipe App
+
 Recipe discovery application with search and category filtering.
 
-Tech:
+Tech
 Flutter • Dart
 
 👉 https://github.com/meliherenn/Recipe-App
@@ -55,9 +58,10 @@ Flutter • Dart
 ---
 
 ### E-Commerce UI
-Modern mobile e-commerce interface with product listing and cart flow.
 
-Tech:
+Modern Flutter e-commerce interface with product listing and cart flow.
+
+Tech
 Flutter • Dart
 
 👉 https://github.com/meliherenn/e-ticaret-ui
@@ -66,14 +70,14 @@ Flutter • Dart
 
 ## 📊 GitHub Stats
 
-![Melih's GitHub stats](https://github-readme-stats.vercel.app/api?username=meliherenn&show_icons=true&theme=default)
+![stats](https://github-readme-stats.vercel.app/api?username=meliherenn\&show_icons=true)
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-LinkedIn  
+LinkedIn
 https://linkedin.com/in/meliheren
 
-Email  
-meliheren2834@gmail.com
+Email
+[meliheren2834@gmail.com](mailto:meliheren2834@gmail.com)
