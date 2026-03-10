@@ -65,12 +65,7 @@ An AI-based healthcare project focused on sepsis-related prediction and analysis
 - Creating better real-world portfolio projects
 - Learning more about AI and backend systems
 
----
 
-## GitHub Stats
-
-![Melih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meliherenn&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meliherenn&layout=compact)
 
 ---
 
