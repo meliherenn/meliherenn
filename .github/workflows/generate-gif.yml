@@ -46,14 +46,10 @@ jobs:
           # Select theme via repository variable: Settings → Secrets and variables → Actions → Variables tab → THEME
           # Valid values: default | macos | debian   (fallback: default)
           # Manual runs (workflow_dispatch) can also pass a theme via the input above.
-          THEME: ${{ vars.THEME || inputs.theme || 'default' }}
+          THEME: ${{ vars.THEME || inputs.theme || 'macos' }}
         run: |
           echo "Theme: $THEME  |  User: $GITHUB_REPOSITORY_OWNER"
-          case "$THEME" in
-            debian)  python generate_debian.py ;;
-            default) python generate_with_stats.py ;;
-            *)       python generate_liquid_glass.py ;;
-          esac
+          python generate_liquid_glass.py
 
       - name: Commit and push if changed
         run: |
