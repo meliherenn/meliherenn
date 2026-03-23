@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b1220,100:1a202c&text=Hi%20there,%20I'm%20Melih%20Eren!%20%F0%9F%91%8B&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=35&desc=Android%20%26%20Software%20Developer&descAlignY=55&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0b1220,100:1a202c&text=Hi%20there!%20I%20am%20Melih%20Eren&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Android+Developer;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Android+Developer;Computer+Engineering+Student;Software+Engineer" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 
 <div align="center">
   <h3>⚡ About Me</h3>
-  <p>I'm a passionate developer focused on building high-quality Android applications and software solutions. Currently working on projects involving complex UI/UX in mobile and TV platforms.</p>
+  <p>I'm a passionate Computer Engineering student (graduating in 3 months) and an <b>Android Developer</b>. My core focus is building high-quality Android applications and robust software solutions, particularly involving complex UI/UX in mobile and TV platforms.</p>
 </div>
 
 <br/>
@@ -39,7 +39,7 @@
 
 <div align="center">
   <h3>💻 My GitHub Terminal</h3>
-  <p><i>Auto-generated terminal GIF showcasing my latest profile stats and activities.</i></p>
+  <p><i>A dynamic overview of my recent coding activity, tech stack, and GitHub statistics, generated automatically.</i></p>
   <img src="https://raw.githubusercontent.com/meliherenn/meliherenn/main/output.gif" alt="Terminal GIF" width="800" />
 </div>
 
