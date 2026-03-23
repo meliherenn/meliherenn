@@ -28,3 +28,9 @@ melih@github:~$ focus
 
 melih@github:~$ currently_building
 - iMAX Player
+```
+<div align="center">
+
+Always building, always improving.
+
+</div>
