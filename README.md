@@ -28,3 +28,27 @@ melih@github:~$ focus
 
 melih@github:~$ currently_building
 - iMAX Player
+About Me
+
+I’m a software engineering student focused on building modern mobile applications and practical AI projects.
+
+What I care about most:
+
+creating clean, polished, user-friendly interfaces
+turning ideas into portfolio-quality products
+improving architecture, code quality, and real-world usability
+Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,git,github,androidstudio,vscode,linux" /> </div>
+Selected Projects
+iMAX Player
+
+Premium IPTV player built for Android TV and Android Mobile.
+
+Dual-platform experience: mobile + TV
+Media3 / ExoPlayer-based playback
+Playlist, live TV, movies, series, and search
+Modern dark UI with production-style architecture
+
+Stack: Kotlin, Jetpack Compose, Hilt, Room, DataStore, Retrofit, Media3
+
+</div> ```
