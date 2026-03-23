@@ -1,76 +1,61 @@
-# Hi there, I'm Melih Eren 👋
+# 🎬 iMAX Player
 
-🎓 Software Engineering Student  
-📍 Istanbul, Turkey  
-📱 Flutter Developer  
-🤖 Interested in AI, Data Science, and Backend Development  
+iMAX Player is a Flutter-based movie and series streaming UI application.
 
----
-
-## About Me
-
-I am a 4th-year Software Engineering student at Haliç University.  
-My main focus is mobile application development with **Flutter**.  
-I also have experience with **Python**, **FastAPI**, and **machine learning** projects.
-
-I enjoy building clean, practical, and user-focused software projects while continuously improving my development skills.
+It includes authentication, search, favorites, and a custom video player interface designed for a modern media experience.
 
 ---
 
-## Tech Stack
+## 🚀 Features
 
-### Languages
-- Python
-- Dart
-- C#
-- SQL
+- 🔐 Authentication (Login/Register)
+- 🎥 Movie & Series listing
+- 🔎 Search functionality
+- ❤️ Favorites system
+- 📄 Detailed movie/series pages
+- ▶️ Custom video player screen
+- 📱 Clean and modern UI
 
-### Frameworks & Libraries
+---
+
+## 🏗️ Architecture
+
+The project follows a structured Flutter architecture:
+
+- `models/` → Data models
+- `providers/` → State management
+- `services/` → Business logic / API
+- `screens/` → UI screens
+- `widgets/` → Reusable components
+
+---
+
+## 🛠️ Tech Stack
+
 - Flutter
-- FastAPI
-- Pandas
-- Scikit-learn
-
-### Tools
-- Git
-- VS Code
-- MS SQL Server
+- Dart
+- Provider (state management)
+- REST / Local data (depending on usage)
 
 ---
 
-## Featured Projects
+## 📸 Screenshots
 
-### Expense Tracker
-A Flutter mobile application for tracking income and expenses with a simple dashboard and local data storage.  
-🔗 [View Project](https://github.com/meliherenn/Expense-Tracker)
-
-### Recipe App
-A Flutter recipe discovery application with search, category filtering, and favorite features.  
-🔗 [View Project](https://github.com/meliherenn/Recipe-App)
-
-### E-Commerce UI
-A modern Flutter e-commerce interface including product listing, favorites, and cart flow.  
-🔗 [View Project](https://github.com/meliherenn/e-ticaret-ui)
-
-### SepsisGuard
-An AI-based healthcare project focused on sepsis-related prediction and analysis.  
-🔗 [View Project](https://github.com/meliherenn/SepsisGuard)
+<!-- buraya ekran görüntüsü koy -->
+<!-- assets/screenshots/... -->
 
 ---
 
-## Currently Focusing On
+## ▶️ Demo
 
-- Improving my Flutter development skills
-- Building stronger mobile UI projects
-- Creating better real-world portfolio projects
-- Learning more about AI and backend systems
-
-
+<!-- buraya youtube ya da gif koy -->
 
 ---
 
-## Connect With Me
+## ⚙️ Installation
 
-- LinkedIn: [linkedin.com/in/meliheren](https://linkedin.com/in/meliheren)
-- GitHub: [github.com/meliherenn](https://github.com/meliherenn)
-- Email: meliheren2834@gmail.com
+```bash
+git clone https://github.com/meliherenn/iMAX-Player.git
+cd iMAX-Player
+flutter pub get
+flutter run
