@@ -23,7 +23,7 @@
 
 <div align="center">
   <h3>⚡ About Me</h3>
-  <p>I'm a passionate Computer Engineering student (graduating in 3 months) and an <b>Android Developer</b>. My core focus is building high-quality Android applications and robust software solutions, particularly involving complex UI/UX in mobile and TV platforms.</p>
+  <p>I'm a passionate Software Engineering student (graduating in 3 months) and an <b>Android Developer</b>. My core focus is building high-quality Android applications and robust software solutions, particularly involving complex UI/UX in mobile and TV platforms.</p>
 </div>
 
 <br/>
