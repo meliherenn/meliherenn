@@ -11,7 +11,7 @@ Expected graduation: **January 2027** · Istanbul, Türkiye
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meliheren/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meliheren2834@gmail.com)
-[![AI Portfolio](https://img.shields.io/badge/AI_Portfolio-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meliherenn/melih-eren-ai-cv)
+[![AI Portfolio](https://img.shields.io/badge/AI_Portfolio-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://melih-eren-ai.streamlit.app/)
 
 </div>
 
